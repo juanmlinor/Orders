@@ -1,0 +1,151 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Orders.Frontend
+build_property.RootNamespace = Orders.Frontend
+build_property.ProjectDir = C:\VisualStudio\Orders\Orders.Frontend\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\VisualStudio\Orders\Orders.Frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Layout/Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Auth/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Auth/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Auth/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Categories/CategoriesIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Categories/CategoryCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUNyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Categories/CategoryEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Categories/CategoryForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUZvcm0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Cities/CityCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0aWVzXENpdHlDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Cities/CityEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0aWVzXENpdHlFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Cities/CityForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0aWVzXENpdHlGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Countries/CountriesIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cmllc0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Countries/CountryCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Countries/CountryDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Countries/CountryEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Countries/CountryForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/States/StateCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/States/StateDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/States/StateEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/States/StateForm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdGVzXFN0YXRlRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Shared/AuthLinks.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEF1dGhMaW5rcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Shared/FormWithName.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvcm1XaXRoTmFtZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Shared/GenericList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEdlbmVyaWNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Shared/InputImg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXElucHV0SW1nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Shared/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/VisualStudio/Orders/Orders.Frontend/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rcz9v1roog
+
+[C:/VisualStudio/Orders/Orders.Frontend/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-18c3xwm8f0

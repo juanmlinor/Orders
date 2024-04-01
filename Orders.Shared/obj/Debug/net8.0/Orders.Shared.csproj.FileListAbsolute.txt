@@ -1,0 +1,12 @@
+C:\VisualStudio\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.deps.json
+C:\VisualStudio\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.dll
+C:\VisualStudio\Orders\Orders.Shared\bin\Debug\net8.0\Orders.Shared.pdb
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.AssemblyInfoInputs.cache
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.AssemblyInfo.cs
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.dll
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\refint\Orders.Shared.dll
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.pdb
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\ref\Orders.Shared.dll
+C:\VisualStudio\Orders\Orders.Shared\obj\Debug\net8.0\Orders.Shared.csproj.AssemblyReference.cache
